@@ -1,0 +1,6 @@
+.ShowSuppliers {
+  background-color: #eee;
+  width: 300px;
+  height: 500px;
+  overflow: scroll;
+}
